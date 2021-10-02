@@ -38,3 +38,12 @@ body {
     font-size: 23px;
     margin: 15px;
 }
+
+#play_button {
+    font-size: 26px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
